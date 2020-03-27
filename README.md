@@ -93,7 +93,7 @@ Place the A4-sized sheet acetate along the length of the 3d printed mask and mak
 
 Once the print is completed, you'll need to remove it from the print bed. Please, wash your hands with soap and use gloves if possible before you handle the print. Next, package it in a sealable sandwich bag as pictured below. This will help prevent contamination during transport.
 
-Please also write the date that the print was packaged on.
+Please also write the date that the print was packaged on. This is very important, the NHS will not use masks more than 5 days after they've been printed.
 
 If you've also constructed the acetate protector, do not send the mask assembled. Instead, package the prepare acetate along with the 3d printed mask. They will be constructed on site.
 
@@ -109,4 +109,4 @@ If you have printed the mask, and also have the acetate sheet to package, there 
 
 If you've only printed the holder, but do not have acetate, you can forward your print to Dhiresh Nathwani who has acquired acetate for the production of these masks. If you send your print along to him, he will forward them on along with the acetate to hospitals in need.
 
-For Dhiresh's mailing address, please reach out directly to me (@seanmtracey sean.tracey@ibm.com) or Dhiresh (@DhireshNathwani) directly
+For Dhiresh's mailing address, please reach out directly to me (@seanmtracey sean.tracey@ibm.com) or Dhiresh (@DhireshNathwani dhireshnathwani@gmail.com) directly
