@@ -4,6 +4,10 @@
 
 This document is a list of materials and instructions for constructing a face mask to help NHS staff treating COVID-19 patients, as well as contacts for coordinating the distribution of the masks. 
 
+## Note for Medical Professionals
+
+If you are an NHS worker, and you would like to add your details as a point of contact to receive these masks, please see the contact section at the end of this document and reach out to either Dhiresh Nathwana or Sean M. Tracey in any of the channels listed.
+
 ## Required tools + materials for constructing the mask
 
 - A 3D printer with a print space of at least 187mm by 167.5mm by 21.5mm
@@ -113,3 +117,12 @@ If you have printed the mask, and also have the acetate sheet to package, there 
 If you've only printed the holder, but do not have acetate, you can forward your print to Dhiresh Nathwani who has acquired acetate for the production of these masks. If you send your print along to him, he will forward them on along with the acetate to hospitals in need.
 
 For Dhiresh's mailing address, please reach out directly to me (@seanmtracey sean.tracey@ibm.com) or Dhiresh (@DhireshNathwani dhireshnathwani@gmail.com) directly
+
+## Contact Details
+
+Dhiresh Nathwani
+    - Twitter: https://twitter.com/dhireshnathwani
+    - Email: dhireshnathwani@gmail.com
+Sean M. Tracey
+    - Twitter: https://twitter.com/seanmtracey
+    - Email: sean.tracey@ibm.com
