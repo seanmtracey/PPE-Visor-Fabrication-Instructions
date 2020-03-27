@@ -19,7 +19,7 @@ If you are an NHS worker, and you would like to add your details as a point of c
 -If you wish to construct the face shield as well as the 3D print, you will need the following:
     - An A4-sized transparent acetate sheet of at least 300 micron thickness
     - 1 Rubber Band
-    - If you wish to acquire acetate, we believe this should do the trick.
+    - If you wish to acquire acetate, we believe this should do the trick https://www.amazon.co.uk/gp/product/B006VYHPIY/ref=ppx_yo_dt_b_asin_title_o00_s00.
 
 - 1 sandwich bag for packaging on completion.
 
