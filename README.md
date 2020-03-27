@@ -9,12 +9,13 @@ This document is a list of materials and instructions for constructing a face ma
 - A 3D printer with a print space of at least 187mm by 167.5mm by 21.5mm
     - A printer with a smaller print area of 187mm by 147mm by 21.5mm can also be used with adjustements. Instructions below 
 
-- At least 10 meters of either ABS of PLA print filament
+- At least 10 meters of either ABS or PLA print filament
     - Other materials may service the print well too, but these are the only materials that have been tested at the time of writing these instructions
 
 -If you wish to construct the face shield as well as the 3D print, you will need the following:
     - An A4-sized transparent acetate sheet of at least 300 micron thickness
     - 1 Rubber Band
+    - If you wish to acquire acetate, we believe this should do the trick.
 
 - 1 sandwich bag for packaging on completion.
 
@@ -81,11 +82,13 @@ We're now ready to start printing the mask. If you have spray adhesive, apply it
 
 Click the "Make" button in the bottom right corner to begin the print. The model will be uploaded to your printer and the print will begin.
 
+Once the print has completed, use a sharp knife to remove the scaffold at the side of the model, and any frizzy bits that may still be attached to the print. These should be easy to remove with just a little bit of pressue. If you didn't print with supports, you won't need to do this.
+
 ## Constructing the acetate face mask (optional)
 
 If you have suitable acetate, you can also construct the protective plastic part of the mask (if you do not proceed to the "Where to send" instructions).
 
-Place the A4-sized sheet acetate along the length of the 3d printed mask and make a mark with a where the hooks are along the print. Then, use a hole punch to make the holes through which the hooks will pass
+Place the A4-sized sheet acetate along the length of the 3d printed mask and make a mark with a where the hooks are along the print. Then, use a hole punch to make the holes through which the hooks will pass.
 
 ## How to package
 
