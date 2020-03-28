@@ -54,7 +54,7 @@ To resize the model, first click on it in the AutoMaker app. A bounding box will
 
 ![](images/4a.png)
 
-Click on the scale tab, and then click on the chain icon (highlighed above in green) to so that the model is scaled in all 3 dimensions. 
+Click on the scale tab, and then click on the chain icon (highlighed above in green) so that the model is not scaled in all 3 dimensions. 
 
 ![](images/4b.png)
 
