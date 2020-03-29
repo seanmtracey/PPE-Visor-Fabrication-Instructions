@@ -83,7 +83,7 @@ We don't a fine resolution print for the mask, so we'll use the preset options f
 ![](images/5.png)
 
 
-Select the radio button next (highlighted in green) to select the coarsest print, then click the check boxes in the lower dialog to enable "Support" and "Support Gap" (highlighted above in blue). This will set your printer to print scaffolding that will support overhanging structures in the model.
+Select the radio button next (highlighted in green) to select the coarsest print. While we initially advised that you should enable the "Support" and "Support Gap" options, subsequent experimentation has shown it is not neccessary for a succesful print. You do not need to enable these options.
 
 ### Step 4. The print.
 
