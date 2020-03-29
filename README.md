@@ -4,6 +4,11 @@
 
 This document is a list of materials and instructions for constructing a face mask to help NHS staff treating COVID-19 patients, as well as contacts for coordinating the distribution of the masks. 
 
+Below are images of the finalised piece.
+
+![](images/mask-front.jpg)
+![](images/mask-right.jpg)
+
 ## Note for Medical Professionals
 
 If you are an NHS worker, and you would like to add your details as a point of contact to receive these masks, please see the contact section at the end of this document and reach out to either Dhiresh Nathwana or Sean M. Tracey in any of the channels listed.
