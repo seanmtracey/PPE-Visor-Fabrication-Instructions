@@ -1,19 +1,19 @@
-# Masks
+# Visors
 
 ## What is this document?
 
-This document is a list of materials and instructions for constructing a face mask to help NHS staff treating COVID-19 patients, as well as contacts for coordinating the distribution of the masks. 
+This document is a list of materials and instructions for constructing a face visor to help prevent contraction of infectious diseases, as well as contacts for coordinating the distribution of the visors. 
 
 Below are images of the finalised piece.
 
-![](images/mask-front.jpg)
-![](images/mask-right.jpg)
+![](images/visor-front.jpg)
+![](images/visor-right.jpg)
 
 ## Note for Medical Professionals
 
-If you are an NHS worker, and you would like to add your details as a point of contact to receive these masks, please see the contact section at the end of this document and reach out to either Dhiresh Nathwana or Sean M. Tracey in any of the channels listed.
+If you are an NHS worker, and you would like to add your details as a point of contact to receive these visors, please see the contact section at the end of this document and reach out to either Dhiresh Nathwana or Sean M. Tracey in any of the channels listed.
 
-## Required tools + materials for constructing the mask
+## Required tools + materials for constructing the visor.
 
 - A 3D printer with a print space of at least 187mm by 167.5mm by 21.5mm
     - A printer with a smaller print area of 187mm by 147mm by 21.5mm can also be used with adjustements. Instructions below 
@@ -31,13 +31,13 @@ If you are an NHS worker, and you would like to add your details as a point of c
 
 ## How to print
 
-Neil Sewell of Solid Print3D has [written instructions](https://www.solidprint3d.co.uk/a-guide-to-printing-face-shields-battling-covid19-one-3d-print-at-a-time/) for printing the mask with the popular Ultimaker range of 3D printers
+Neil Sewell of Solid Print3D has [written instructions](https://www.solidprint3d.co.uk/a-guide-to-printing-face-shields-battling-covid19-one-3d-print-at-a-time/) for printing the visor with the popular Ultimaker range of 3D printers
 
-For those with the smaller CEL Robox 3D printers (used by Sean M. Tracey, Andy Stanford-Clark and others in the maker community) these instructions will walk you through how to adjust the parameters of the MASK.stl (included in this repo) file with the CEL AutoMaker software.
+For those with the smaller CEL Robox 3D printers (used by Sean M. Tracey, Andy Stanford-Clark and others in the maker community) these instructions will walk you through how to adjust the parameters of the VISOR.stl (included in this repo) file with the CEL AutoMaker software.
 
 ### Step 1. Loading the STL
 
-First download the attached MASK.stl file in this repo (taken from https://grabcad.com/library/coronavirus-flu-reusable-mask-1) to your computer, then open up the AutoMaker software.
+First download the attached VISOR.stl file in this repo (taken from https://grabcad.com/library/coronavirus-flu-reusable-mask-1) to your computer, then open up the AutoMaker software.
 
 ![](images/1.png)
 
@@ -45,7 +45,7 @@ Along the top of the application, there is a toolbar of tabs, to the right of an
 
 ![](images/2.png)
 
-This will open a new tab with that says "Load a model" in the center of the view. Find the MASK.stl file that you downloaded and drag and drop it into the center of the window.
+This will open a new tab with that says "Load a model" in the center of the view. Find the VISOR.stl file that you downloaded and drag and drop it into the center of the window.
 
 If the model is too large for your printer, AutoMaker may ask you if you want to resize the STL before loading. Select the "No" option and load the model as is. (Not all systems will ask if you want to resize before loading the model. Don't worry if it doesn't just continue on below).
 
@@ -78,7 +78,7 @@ Once your model has been loaded and positioned by the AutoMaker software, we're 
 
 Click the "To Settings" button at the bottom right corner (highlighted in orange) of the AutoMaker software to go through to the final configuration steps of our print.
 
-We don't a fine resolution print for the mask, so we'll use the preset options for the corsest print. This will take ~90 minutes to print one mask.
+We don't a fine resolution print for the visor, so we'll use the preset options for the corsest print. This will take ~90 minutes to print one visor.
 
 ![](images/5.png)
 
@@ -87,17 +87,17 @@ Select the radio button next (highlighted in green) to select the coarsest print
 
 ### Step 4. The print.
 
-We're now ready to start printing the mask. If you have spray adhesive, apply it to the print bed now, this will help prevent warping as the masks are printed. If you don't have the adhesive, keep an eye on the print to make sure that nothing goes awry during the fabrication process.
+We're now ready to start printing the visor. If you have spray adhesive, apply it to the print bed now, this will help prevent warping as the visors are printed. If you don't have the adhesive, keep an eye on the print to make sure that nothing goes awry during the fabrication process.
 
 Click the "Make" button in the bottom right corner to begin the print. The model will be uploaded to your printer and the print will begin.
 
 Once the print has completed, use a sharp knife to remove the scaffold at the side of the model, and any frizzy bits that may still be attached to the print. These should be easy to remove with just a little bit of pressue. If you didn't print with supports, you won't need to do this.
 
-## Constructing the acetate face mask (optional)
+## Constructing the acetate face visor (optional)
 
-If you have suitable acetate, you can also construct the protective plastic part of the mask (if you do not proceed to the "Where to send" instructions).
+If you have suitable acetate, you can also construct the protective plastic part of the visor (if you do not proceed to the "Where to send" instructions).
 
-Place the A4-sized sheet acetate along the length of the 3d printed mask and make a mark with a where the hooks are along the print. Then, use a hole punch to make the holes through which the hooks will pass.
+Place the A4-sized sheet acetate along the length of the 3d printed visor and make a mark with a where the hooks are along the print. Then, use a hole punch to make the holes through which the hooks will pass.
 
 ## How to package
 
@@ -105,29 +105,24 @@ Place the A4-sized sheet acetate along the length of the 3d printed mask and mak
 
 Once the print is completed, you'll need to remove it from the print bed. Please, wash your hands with soap and use gloves if possible before you handle the print. Next, package it in a sealable sandwich bag as pictured below. This will help prevent contamination during transport.
 
-Please also write the date that the print was packaged on. This is very important, the NHS will not use masks more than 5 days after they've been printed.
+Please also write the date that the print was packaged on. This is very important, the NHS will not use visors more than 5 days after they've been printed.
 
-If you've also constructed the acetate protector, do not send the mask assembled. Instead, package the prepare acetate along with the 3d printed mask. They will be constructed on site.
+If you've also constructed the acetate protector, do not send the visor assembled. Instead, package the prepare acetate along with the 3d printed visor. They will be constructed on site.
 
-If possible, please also include a rubber band to affix the mask to the wearers head.
+If possible, please also include a rubber band to affix the visor to the wearers head.
 
 ## Where to send
 
 ### With Acetate
 
-If you have printed the mask, and also have the acetate sheet to package, there is a Google Spreadsheet with the details of medical professionals who have reached out to ask for help. You can find that here and coordinate directly with those professionals. https://docs.google.com/spreadsheets/d/1o92tKDcumzmwRb1I07RO9nyIu-nmpfZ0STJr0_yxv-g/edit#gid=0
+If you have printed the visor, and also have the acetate sheet to package, there is a Google Spreadsheet with the details of medical professionals who have reached out to ask for help. You can find that here and coordinate directly with those professionals. https://docs.google.com/spreadsheets/d/1o92tKDcumzmwRb1I07RO9nyIu-nmpfZ0STJr0_yxv-g/edit#gid=0
 
 ### Without Acetate.
 
-If you've only printed the holder, but do not have acetate, you can forward your print to Dhiresh Nathwani who has acquired acetate for the production of these masks. If you send your print along to him, he will forward them on along with the acetate to hospitals in need.
-
-For Dhiresh's mailing address, please reach out directly to me (@seanmtracey sean.tracey@ibm.com) or Dhiresh (@DhireshNathwani dhireshnathwani@gmail.com) directly
+If you've only printed the holder, but do not have acetate, you can forward your prints to us where we'll construct them and forward them on. Please reach out on the email address or Twitter account below for mailing details.
 
 ## Contact Details
 
-Dhiresh Nathwani
-    - Twitter: https://twitter.com/dhireshnathwani
-    - Email: dhireshnathwani@gmail.com
-Sean M. Tracey
-    - Twitter: https://twitter.com/seanmtracey
-    - Email: sean.tracey@ibm.com
+Makers for the NHS
+ - Email: makers4thenhs@gmail.com
+ - Twitter: https://twitter.com/makers4thenhs
