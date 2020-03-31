@@ -119,15 +119,10 @@ If you have printed the mask, and also have the acetate sheet to package, there 
 
 ### Without Acetate.
 
-If you've only printed the holder, but do not have acetate, you can forward your print to Dhiresh Nathwani who has acquired acetate for the production of these masks. If you send your print along to him, he will forward them on along with the acetate to hospitals in need.
-
-For Dhiresh's mailing address, please reach out directly to me (@seanmtracey sean.tracey@ibm.com) or Dhiresh (@DhireshNathwani dhireshnathwani@gmail.com) directly
+If you've only printed the holder, but do not have acetate, you can forward your prints to us where we'll construct them and forward them on. Please reach out on the email address or Twitter account below for mailing details.
 
 ## Contact Details
 
-Dhiresh Nathwani
-    - Twitter: https://twitter.com/dhireshnathwani
-    - Email: dhireshnathwani@gmail.com
-Sean M. Tracey
-    - Twitter: https://twitter.com/seanmtracey
-    - Email: sean.tracey@ibm.com
+Makers for the NHS
+ - Email: makers4thenhs@gmail.com
+ - Twitter: https://twitter.com/makers4thenhs
