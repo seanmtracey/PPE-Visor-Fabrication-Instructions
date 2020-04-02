@@ -99,7 +99,7 @@ Once your model has been loaded and positioned by the AutoMaker software, we're 
 
 Click the "To Settings" button at the bottom right corner (highlighted in orange) of the AutoMaker software to go through to the final configuration steps of our print.
 
-We don't a fine resolution print for the visor, so we'll use the preset options for the coarsest print. This will take ~2 hours to print one visor.
+We don't need a fine resolution print for the visor, so we'll use the preset options for the coarsest print. This will take ~2 hours to print one visor.
 
 ![](images/5.png)
 
