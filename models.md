@@ -21,3 +21,4 @@ If you do have acetate, the dimensions for the sheet should be 275*250mm. The lo
 # Elastic
 
 All elastic should be double knotted on one side of the headband with a length of 370mm.
+ 
