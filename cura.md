@@ -23,20 +23,22 @@ ideal for printing the visor (quality isn't that important):
 
 ![Select Cura printing profile](images/cura-select-printing-profile.png)
 
-The important settings are:
+Some changes to the defaults are required:
  * 0.4mm layers
- * 20% infill
+ * 20% infill is the default, but 30% is preferred
  * 60mm/s print speed
- * brim type "bed adhesion"
+ * "skirt" bed adhesion, or no adhesion
 
-Additionally ensure you've selected the correct material to print with (PLA is good, ABS
-is fine too). If there are any other settings you need to use that are specific to your
-printer then set them now.
+Additionally ensure you've selected the correct material to print with (PETG is preferred but
+not all printers can print with it, PLA is fine and ABS is also okay). If there are any other
+settings you need to use that are specific to your printer then set them now.
 
 The print is big and wide and quite thin - and so very prone to warping. If you have a
 heated bed you'll need to use it, otherwise you may need adhesive on the blue painters tape.
 Printing with a brim will also avoid warping, but you'll need to remove the brim after
-printing (please observe handling precautions!). 
+printing (please observe handling precautions!). Ideally print with a skirt or no adhesion
+as it means less work after the print is complete, but a warped print is less use than one
+that you've had to trim.
 
 Lastly, prepare for printing - press "Slice" (bottom right). You should see something
 like this:
