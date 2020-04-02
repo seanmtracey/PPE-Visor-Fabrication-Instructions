@@ -28,6 +28,27 @@ If you are an NHS worker, and you would like to add your details as a point of c
 
 - 1 sandwich bag for packaging on completion.
 
+## Standard print files to use
+
+To standardise our printing processes and to ensure we’re not all printing different types of the same file.
+
+### Visor 3D printing files
+
+We should ALL printing the Prusa rc3: https://www.prusaprinters.org/prints/25857/filesFile name: covid19_headband_rc3.stl
+
+If you would like to stack the prints please only use these: https://www.prusaprinters.org/prints/27267-prusa-protective-face-shield-rc31-stack-versions/filesFile name: covid19_headband_double_rc31.stl or covid19_headband_quadro_rc31.stl
+Other files from the Prusa website may be used but please run it by Dhiresh before printing.
+
+### Acetate sheets
+
+If you don’t have any acetate please leave this to Anup, who has a rotary machine cutting all the sheets for us. All parts should be sent to Dhiresh for assembly.
+
+If you do have acetate, the dimensions for the sheet should be 275*250mm. The longer side going across the headband.  
+
+### Elastic
+
+All elastic should be double knotted on one side of the headband with a length of 370mm.
+
 
 ## How to print
 
@@ -37,7 +58,7 @@ For those with the smaller CEL Robox 3D printers (used by Sean M. Tracey, Andy S
 
 ### Step 1. Loading the STL
 
-First download the attached VISOR.stl file in this repo (taken from https://grabcad.com/library/coronavirus-flu-reusable-mask-1) to your computer, then open up the AutoMaker software.
+First download the STL file listed above to your computer, then open up the AutoMaker software.
 
 ![](images/1.png)
 
@@ -49,7 +70,7 @@ This will open a new tab with that says "Load a model" in the center of the view
 
 If the model is too large for your printer, AutoMaker may ask you if you want to resize the STL before loading. Select the "No" option and load the model as is. (Not all systems will ask if you want to resize before loading the model. Don't worry if it doesn't just continue on below).
 
-### Step 2. Resizing the model (if neccesary)
+### Step 2. Resizing the model (this is probably not necessary for most printers)
 
 If your printer is too small to print the full sized model, a 3D rendering of it will appear in the center of the screen, it will be highlighted red. You will need to resize the print, which we shall walk you through now. If you have a larger CEL printer, the rendering will appear blue and will not need resizing. Continue on to step 3.
 
@@ -59,7 +80,7 @@ To resize the model, first click on it in the AutoMaker app. A bounding box will
 
 ![](images/4a.png)
 
-Click on the scale tab, and then click on the chain icon (highlighed above in green) so that the model is not scaled in all 3 dimensions. 
+Click on the Scale tab, and then click on the chain icon (highlighed above in green) so that the model is not scaled in all 3 dimensions. 
 
 ![](images/4b.png)
 
@@ -72,18 +93,20 @@ Your model may still appear red, this is because despite resizing our model, the
 
 ### Step 3. Configuring the print.
 
-![](images/4d.png)
-
 Once your model has been loaded and positioned by the AutoMaker software, we're now able to configure the print density of our print.
+
+![](images/4d.png)
 
 Click the "To Settings" button at the bottom right corner (highlighted in orange) of the AutoMaker software to go through to the final configuration steps of our print.
 
-We don't a fine resolution print for the visor, so we'll use the preset options for the corsest print. This will take ~90 minutes to print one visor.
+We don't a fine resolution print for the visor, so we'll use the preset options for the coarsest print. This will take ~2 hours to print one visor.
 
 ![](images/5.png)
 
 
-Select the radio button next (highlighted in green) to select the coarsest print. While we initially advised that you should enable the "Support" and "Support Gap" options, subsequent experimentation has shown it is not neccessary for a succesful print. You do not need to enable these options.
+Select the radio button next (highlighted in green) to select the coarsest print.
+
+(While we initially advised that you should enable the "Support" and "Support Gap" options, subsequent experimentation has shown it is not neccessary for a succesful print. You do not need to enable these options.)
 
 ### Step 4. The print.
 
@@ -97,7 +120,7 @@ Once the print has completed, use a sharp knife to remove the scaffold at the si
 
 If you have suitable acetate, you can also construct the protective plastic part of the visor (if you do not proceed to the "Where to send" instructions).
 
-Place the A4-sized sheet acetate along the length of the 3d printed visor and make a mark with a where the hooks are along the print. Then, use a hole punch to make the holes through which the hooks will pass.
+Place the sheet of acetate along the length of the 3d printed visor and make a mark with a where the hooks are along the print. Then, use a hole punch to make the holes through which the hooks will pass.
 
 ## How to package
 
