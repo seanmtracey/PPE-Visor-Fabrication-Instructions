@@ -1,8 +1,10 @@
 # Visors
 
+NOTE: See [models](models.md) for which files to print. Do not use `visor.stl`.
+
 ## What is this document?
 
-This document is a list of materials and instructions for constructing a face visor to help prevent contraction of infectious diseases, as well as contacts for coordinating the distribution of the visors. 
+This document is a list of materials and instructions for constructing a face visor to help prevent contraction of infectious diseases, as well as contacts for coordinating the distribution of the visors.
 
 Below are images of the finalised piece.
 
@@ -16,7 +18,7 @@ If you are an NHS worker, and you would like to add your details as a point of c
 ## Required tools + materials for constructing the visor.
 
 - A 3D printer with a print space of at least 187mm by 167.5mm by 21.5mm
-    - A printer with a smaller print area of 187mm by 147mm by 21.5mm can also be used with adjustements. Instructions below 
+    - A printer with a smaller print area of 187mm by 147mm by 21.5mm can also be used with adjustements. Instructions below
 
 - At least 10 meters of either ABS or PLA print filament
     - Other materials may service the print well too, but these are the only materials that have been tested at the time of writing these instructions
@@ -59,11 +61,11 @@ To resize the model, first click on it in the AutoMaker app. A bounding box will
 
 ![](images/4a.png)
 
-Click on the scale tab, and then click on the chain icon (highlighed above in green) so that the model is not scaled in all 3 dimensions. 
+Click on the scale tab, and then click on the chain icon (highlighed above in green) so that the model is not scaled in all 3 dimensions.
 
 ![](images/4b.png)
 
-Next, select the text box along side (Scale Depth (mm) ) (highlighted above in red) and change the value to 147mm and hit your return key. The model will resize on screen. This is the maximum size that your printer will be able to accomadate for the depth of the model, and the test prints conducted by Andy Stanford-Clark and Sean M. Tracey have come out perfectly servicable. 
+Next, select the text box along side (Scale Depth (mm) ) (highlighted above in red) and change the value to 147mm and hit your return key. The model will resize on screen. This is the maximum size that your printer will be able to accomadate for the depth of the model, and the test prints conducted by Andy Stanford-Clark and Sean M. Tracey have come out perfectly servicable.
 
 ![](images/4c.png)
 
