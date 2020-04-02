@@ -9,7 +9,7 @@ precautions to avoid spreading it on the visor!
 
 ## Prepare for Printing
 
-It should look something like this:
+When you open Cura, it should look something like this:
 
 ![Cura opening screen](images/cura-initial.png)
 
