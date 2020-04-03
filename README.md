@@ -36,9 +36,9 @@ To standardise our printing processes and to ensure we’re not all printing dif
 
 ### Visor 3D printing files
 
-We should ALL printing the Prusa rc3: https://www.prusaprinters.org/prints/25857/filesFile name: covid19_headband_rc3.stl
+We should ALL printing the Prusa rc3: https://www.prusaprinters.org/prints/25857/files File name: covid19_headband_rc3.stl
 
-If you would like to stack the prints please only use these: https://www.prusaprinters.org/prints/27267-prusa-protective-face-shield-rc31-stack-versions/filesFile name: covid19_headband_double_rc31.stl or covid19_headband_quadro_rc31.stl
+If you would like to stack the prints please only use these: https://www.prusaprinters.org/prints/27267-prusa-protective-face-shield-rc31-stack-versions/files File name: covid19_headband_double_rc31.stl or covid19_headband_quadro_rc31.stl
 Other files from the Prusa website may be used but please run it by Dhiresh before printing.
 
 ### Acetate sheets
