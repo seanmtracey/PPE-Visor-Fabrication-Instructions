@@ -19,8 +19,12 @@ If you are an NHS worker, and you would like to add your details as a point of c
 
 - A 3D printer with a print space of at least 187mm by 147mm by 21.5mm
 
-- At least 10 metres of either ABS or PLA print filament
+- At least 10 metres of either PETG, PLA or ABS print filament
     - Other materials may service the print well too, but these are the only materials that have been tested at the time of writing these instructions
+    - Our preference for the filaments are in the following order
+        1. PETG
+        2. PLA
+        3. ABS
 
 ## Standard print files to use
 
