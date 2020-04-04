@@ -1,7 +1,5 @@
 # Visors
 
-NOTE: See [models](models.md) for which files to print. Do not use `visor.stl`.
-
 ## What is this document?
 
 This document is a list of materials and instructions for constructing a face visor to help prevent contraction of infectious diseases, as well as contacts for coordinating the distribution of the visors.
@@ -19,12 +17,7 @@ If you are an NHS worker, and you would like to add your details as a point of c
 
 - A 3D printer with a print space of at least 187mm by 147mm by 21.5mm
 
-- At least 10 metres of either PETG, PLA or ABS print filament
-    - Other materials may service the print well too, but these are the only materials that have been tested at the time of writing these instructions
-    - Our preference for the filaments are in the following order
-        1. PETG
-        2. PLA
-        3. ABS
+- At least 10 metres of either PETG, PLA or ABS print filament. PETG is our preferred filament type, but both PLA and ABS are fine.
 
 ## Standard print files to use
 
