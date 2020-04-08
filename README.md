@@ -115,33 +115,37 @@ Makers for the NHS
 
 ## List of Contributors + Roles
 
-### Organisers
+### Volunteer Makers
 
-- Sean M. Tracey: Team Coordinator / Backup Logistics
+- Sean M. Tracey: Team Co-ordinator / Backup Logistics
     - Twitter: https://twitter.com/seanmtracey
-- Dhiresh Nathwani: Chief Designer
+
+- Dhiresh Nathwani: Chief Designer and Founder
     - Twitter: https://twitter.com/dhireshnathwani
+
 - Ellie Paine: Head of Communications
     - LinkedIn: https://www.linkedin.com/in/ellie-paine-6186a889
+
 - Gwilym Newton: Head of Logistics
     - Twitter: https://twitter.com/trevelyan_panda
     - Site: https://researcher.watson.ibm.com/researcher/view.php?person=uk-GWILNEW
+
 - Laura Cowen: Head of Documentation / Backup Communications
+
 - James Sutton: Chief Liaison Officer
-- Abhi Patel: Chief Financial Officer
+
+- Abhi Patel: Chief Financial Officer / GoFundMe Co-ordinator
     Twitter: https://twitter.com/technoidabhi
     LinkedIn: www.linkedin.com/in/technoidabhi
-- Anup Chavda: 
+
+- Anup Chavda - Chief Blade Person: 
     - Twitter: https://twitter.com/anupchavda
     - LinkedIn: https://www.linkedin.com/in/anupchavda/
 
-### Volunteer Makers
+- Andy Stanford-Clark (IBM UK)
+    Twitter: https://twitter.com/andysc
 
-- Andy Stanford-Clark
-
-- Andreas H Tichy
-
-- Anup Chavda
+- Andreas Haimboeck-Tichy
 
 - Arturs Grigals
 
