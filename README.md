@@ -160,6 +160,7 @@ Makers for the NHS
 - Dan Robinson
 
 - Eoin Devane
+    - LinkedIn: https://uk.linkedin.com/in/eoindevane
 
 - Gabriel Orghidan
 
@@ -202,3 +203,4 @@ Makers for the NHS
 - Sumit Maitra
 
 - Simon Kapadia
+    - Website: http://kapadia.pl
