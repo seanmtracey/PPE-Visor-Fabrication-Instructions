@@ -112,3 +112,95 @@ Send your printed visors to Dhiresh for assembly. He will then send them on to t
 Makers for the NHS
  - Email: makers4thenhs@gmail.com
  - Twitter: https://twitter.com/makers4thenhs
+
+## List of Contributors + Roles
+
+### Volunteer Makers
+
+- Sean M. Tracey: Team Co-ordinator / Backup Logistics
+    - Twitter: https://twitter.com/seanmtracey
+
+- Dhiresh Nathwani: Chief Designer and Founder
+    - Twitter: https://twitter.com/dhireshnathwani
+
+- Ellie Paine: Head of Communications
+    - LinkedIn: https://www.linkedin.com/in/ellie-paine-6186a889
+
+- Gwilym Newton: Head of Logistics
+    - Twitter: https://twitter.com/trevelyan_panda
+    - Site: https://researcher.watson.ibm.com/researcher/view.php?person=uk-GWILNEW
+
+- Laura Cowen: Head of Documentation / Backup Communications
+
+- James Sutton: Chief Liaison Officer
+
+- Abhi Patel: Chief Financial Officer / GoFundMe Co-ordinator
+    Twitter: https://twitter.com/technoidabhi
+    LinkedIn: www.linkedin.com/in/technoidabhi
+
+- Anup Chavda - Chief Blade Person: 
+    - Twitter: https://twitter.com/anupchavda
+    - LinkedIn: https://www.linkedin.com/in/anupchavda/
+
+- Andy Stanford-Clark (IBM UK)
+    Twitter: https://twitter.com/andysc
+
+- Andreas Haimboeck-Tichy
+
+- Arturs Grigals
+
+- Benjamin Dyer
+
+- Chris
+
+- Chris Dudley
+
+- Christopher Grilli
+
+- Dan Robinson
+
+- Eoin Devane
+    - LinkedIn: https://uk.linkedin.com/in/eoindevane
+
+- Gabriel Orghidan
+
+- Gary Barnett
+
+- Jane Stockdill-Mander
+
+- John Galvez
+
+- John H Simpson
+
+- Lucas Ferreira-Correia
+
+- Luke Eustace
+
+- Mark Lawson
+
+- Michael Glass
+
+- Mike Feingold
+
+- Paul Crouch
+
+- Pete M
+
+- Ralph Bolton
+
+- Richard Snell
+
+- Romy Greenfield
+
+- seanmtracey
+
+- Selina Lee
+
+- Stephen Porton
+
+- Stuart Bayliss
+
+- Sumit Maitra
+
+- Simon Kapadia
+    - Website: http://kapadia.pl
