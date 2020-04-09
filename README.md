@@ -38,7 +38,7 @@ If you do have acetate, the dimensions for the sheet should be 275*250mm. The lo
 
 ### Elastic
 
-The elastic should be 370mm long. Cut a slit in each end of the elastic about 1cm long. Tie one end of the elastic on one side of the visor and leave the other end free for the wearer to tie to the right size for their head.
+The elastic should be 340mm long. Cut a slit in each end of the elastic about 1cm long. Tie one end of the elastic on one side of the visor and leave the other end free for the wearer to tie to the right size for their head.
 
 
 ## How to print
