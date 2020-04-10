@@ -191,6 +191,8 @@ Makers for the NHS
 - Richard Snell
 
 - Romy Greenfield
+    - LinkedIn: https://www.linkedin.com/in/romy-greenfield/
+    - GitHub: https://github.com/anywhereiromy
 
 - seanmtracey
 
