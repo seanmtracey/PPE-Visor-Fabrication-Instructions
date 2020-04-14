@@ -32,7 +32,7 @@ We aren't printing the bottom part of the Prusa RC3 model because it doesn't app
 
 ### Acetate sheets
 
-If you don’t have any acetate please leave this to Anup, who has a rotary machine cutting all the sheets for us. All parts should be sent to Dhiresh (London Hub) or Gwilym and Ellie (Hampshire Hub) for assembly.
+If you don’t have any acetate please leave this to Anup, Abhi, and Gwilym, who have rotary machines cutting all the sheets for us. All parts should be sent to Dhiresh (London Hub) or Gwilym and Ellie (Hampshire Hub) for assembly.
 
 If you do have acetate, the acetate should be 400 microns thick, and the dimensions for the sheet should be 290mm x 240mm. The longer side going across the headband.
 
