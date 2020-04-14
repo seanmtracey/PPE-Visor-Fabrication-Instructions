@@ -16,15 +16,15 @@ If you are an NHS worker, and you would like to add your details as a point of c
 
 - At least 10 metres of either PETG, PLA, or ABS print filament. PETG is our preferred filament type, but both PLA and ABS are fine.
 
-## Standard print files to use
+## Specifications
 
-To standardise our printing and assembly processes, we need to ensure we’re all printing the same version of the same file.
+To standardise our printing and assembly processes, we need to ensure we’re all printing the same version of the same file and using the right acetate etc.
 
 ### Visor 3D printing files
 
-Print the Prusa rc3 which you can find in `covid19_headband_rc3.stl` at https://www.prusaprinters.org/prints/25857/files 
+Print the Prusa rc3 which you can find in `covid19_headband_rc3.stl` at https://www.prusaprinters.org/prints/25857/files To save filament, you can instead print this modified version of the Prusa rc3 from https://www.prusaprinters.org/prints/29080-prusa-rc3-m2/files
 
-If you would like to stack the prints, try `covid19_headband_double_rc31.stl` or `covid19_headband_quadro_rc31.stl` at https://www.prusaprinters.org/prints/27267-prusa-protective-face-shield-rc31-stack-versions/files 
+If you would like to stack the standard Prusa rc3 prints, try one of the files at https://www.prusaprinters.org/prints/27975-prusa-rc3-faceshield-remix-stacked 
 
 Other files from the Prusa website may be used but please run it by Dhiresh before printing.
 
@@ -32,13 +32,20 @@ We aren't printing the bottom part of the Prusa RC3 model because it doesn't app
 
 ### Acetate sheets
 
-If you don’t have any acetate please leave this to Anup, who has a rotary machine cutting all the sheets for us. All parts should be sent to Dhiresh for assembly.
+If you don’t have any acetate please leave this to Anup, who has a rotary machine cutting all the sheets for us. All parts should be sent to Dhiresh (London Hub) or Gwilym and Ellie (Hampshire Hub) for assembly.
 
-If you do have acetate, the dimensions for the sheet should be 275*250mm. The longer side going across the headband.
+If you do have acetate, the acetate should be 400 microns thick, and the dimensions for the sheet should be 290mm x 240mm. The longer side going across the headband.
+
+To prepare the acetate:
+1. Cut acetate 290mm across by 240mm vertical.
+2. Find the mid-point (145mm), mark with sharpie.
+3. Measure 70mm out each side of mid-point, mark dots with sharpie.
+4. Use a normal double-hole punch, centred on each of those dots, to make 2 pairs of holes.
+5. Start at one end and clip the 4 perfectly aligned holes onto the pins.
 
 ### Elastic
 
-The elastic should be 340mm long. Cut a slit in each end of the elastic about 1cm long. Tie one end of the elastic on one side of the visor and leave the other end free for the wearer to tie to the right size for their head.
+The elastic should be 340mm long. Cut a slit near each end of the elastic about 1cm long (fold it and cut a 5mm slit into the fold). Push the large peg on the side of the headband through a slit to attach the elastic; repeat for the other side with the other end of the elastic.
 
 
 ## How to print
