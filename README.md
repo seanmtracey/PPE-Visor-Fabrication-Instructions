@@ -158,9 +158,9 @@ Makers for the NHS
 
 - Benjamin Dyer
 
-- Chris
-
 - Chris Dudley
+
+- Chris Polin
 
 - Christopher Grilli
 
@@ -188,6 +188,8 @@ Makers for the NHS
 - Michael Glass
 
 - Mike Feingold
+
+- Niall Beard
 
 - Paul Crouch
 
